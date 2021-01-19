@@ -14,13 +14,13 @@ const Routes = () => {
             <Header />
             <div className="buckets app_content">
                 <Switch>
-                    <Route exact path="/">
+                    <Route exact path="/todof_fractal">
                         <BucketContainer />
                     </Route>
-                    <Route exact path="/home">
+                    <Route exact path="/todof_fractal/home">
                         <BucketContainer />
                     </Route>
-                    <Route eaxct path="/about">
+                    <Route eaxct path="/todof_fractal/about">
                         <About />
                     </Route>
                 </Switch>
