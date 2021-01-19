@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/todof_fractal/static/css/main.9f3fc27a.chunk.css",
+    "main.js": "/todof_fractal/static/js/main.af6b42fa.chunk.js",
+    "main.js.map": "/todof_fractal/static/js/main.af6b42fa.chunk.js.map",
+    "runtime-main.js": "/todof_fractal/static/js/runtime-main.30898f0a.js",
+    "runtime-main.js.map": "/todof_fractal/static/js/runtime-main.30898f0a.js.map",
+    "static/js/2.7442f951.chunk.js": "/todof_fractal/static/js/2.7442f951.chunk.js",
+    "static/js/2.7442f951.chunk.js.map": "/todof_fractal/static/js/2.7442f951.chunk.js.map",
+    "static/js/3.7121940f.chunk.js": "/todof_fractal/static/js/3.7121940f.chunk.js",
+    "static/js/3.7121940f.chunk.js.map": "/todof_fractal/static/js/3.7121940f.chunk.js.map",
+    "index.html": "/todof_fractal/index.html",
+    "static/css/main.9f3fc27a.chunk.css.map": "/todof_fractal/static/css/main.9f3fc27a.chunk.css.map",
+    "static/js/2.7442f951.chunk.js.LICENSE.txt": "/todof_fractal/static/js/2.7442f951.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.30898f0a.js",
+    "static/js/2.7442f951.chunk.js",
+    "static/css/main.9f3fc27a.chunk.css",
+    "static/js/main.af6b42fa.chunk.js"
+  ]
+}
