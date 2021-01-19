@@ -14,7 +14,7 @@ export default class Header extends Component {
               <li className="nav-item">
                 <Link className="nav-link active" to="/todof_fractal/home">
                   Home
-                </Link>
+                </Link> 
               </li>
               <li className="nav-item">
                 <Link className="nav-link" to="/todof_fractal/about">About</Link>
